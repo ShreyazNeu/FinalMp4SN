@@ -1,0 +1,1 @@
+C:\Users\Shreyaz\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts\pyinstaller.exe --onefile C:\Users\Shreyaz\Music\YouTubeToMP4\youtube_to_mp4.py
